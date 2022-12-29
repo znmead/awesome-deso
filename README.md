@@ -1,4 +1,4 @@
 # awesome-deso
 A curated list of everything awesome on the Decentralized Social blockchain. 
 
-Find me at diamondapp.com/u/znmead
+Find me at [on-chain](diamondapp.com/u/znmead)
